@@ -91,3 +91,8 @@ for (ligne=1;ligne<=10;ligne++) { for (colonne=1;colonne<=10;colonne++) { printf
 return 0;
 }
 ```
+<center>
+
+> Du fil et une aiguille pour les femelles. Un fouet et une mule pour le mâle. Voilà le lot des gens qui naissent avec des moyens.
+
+![Star](star.png)
