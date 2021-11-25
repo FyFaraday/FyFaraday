@@ -95,7 +95,7 @@ return 0;
 
 > Du fil et une aiguille pour les femelles. Un fouet et une mule pour le mâle. Voilà le lot des gens qui naissent avec des moyens.
 
-> J'espère que vous avez aimé mon blog sinon je vous souhaite une excellente journée.
+`J'espère que vous avez aimé mon blog sinon je vous souhaite une excellente journée.`
 
 ![Star](star.png)
 
