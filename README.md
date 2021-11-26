@@ -1,7 +1,4 @@
-<center>
-
 Hi, ![Salut](studenttalk.png) I'm FY Faraday
-</center>
 
 ___
 
@@ -18,22 +15,19 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai crée, n'hesitez p
 
 ___
 ___
-<center>
 
 **MES RESEAUX SOCIAUX,CLIQUEZ :**  
 [![Facebook](fbico.png)](http://www.facebook.com/mrfaraday.code365)
 [![Instagram](instico.png)](http://www.instagram.com/code365)
 [![Youtube](ytico.png)](http://www.youtube.com/tokyfinaritra)
 
-</center>
 
 ____
 ____
-<center>
 
 ![Dossier Dev](Faraday.png)
 
-</center>
+
 
 > Celui qui se perd dans sa passion est moins perdu que celui qui perd sa passion.
 ___
@@ -61,11 +55,8 @@ ___
 
 ## Mes Connaissances supplementaires :
 
-<center>
 
 ![Social](social.png)![AI](ai.png)![ID](id.png)![PS](ps.png)![DISPSTAT](displaystats.png)
-
-</center>
 
 > Visualising your future - Mr Faraday
 
@@ -91,7 +82,7 @@ for (ligne=1;ligne<=10;ligne++) { for (colonne=1;colonne<=10;colonne++) { printf
 return 0;
 }
 ```
-<center>
+
 
 > Du fil et une aiguille pour les femelles. Un fouet et une mule pour le mâle. Voilà le lot des gens qui naissent avec des moyens.
 
@@ -99,4 +90,3 @@ return 0;
 
 ![Star](star.png)
 
-</center>
